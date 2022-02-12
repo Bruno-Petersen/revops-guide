@@ -23,7 +23,7 @@ email: social@bruno-petersen.de
 description: >- # this means to ignore newlines until "baseurl:"
   Learn everything you need to know about Revenue Operations. Revenue Operartions (RevOps) is a crucial function in Software-as-a-Service (SaaS) companies and touches most parts of the organisation.
 baseurl: "revopsguide.net" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://revopsguide.net" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 # github_username: jekyll
 
