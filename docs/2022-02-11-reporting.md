@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Systems"
+title: "Insights and reporting"
 date: 2021-02-12 20:46:17 +0100
 nav_order: 4
 # permalink: /test/
@@ -8,18 +8,13 @@ nav_order: 4
 
 - Automation
   - Zapier
-  - LogicApps
-  - HubSpot
-- Basics
-  - JSON
-  - Webhooks
-  - APIs
-  - Data analysis
-  - Basic sheets functions
-  - Visualisation
-  - Acronyms
+  Thank you for taking the time to make and share this theme; it's fantastic.
 
-Concepts:
+I'm trying to follow your instructions for Customization and it says:
+
+To customize your site’s aesthetic, open _sass/custom/custom.scss in your editor to see if there is a variable that you can override.
+
+How do you open specific scss files if the theme is installed as a gem? I'm working locally right now so I have a vendor/bundle folder that contains the gems, but obviously editing those files won't persist once I deploy.
 
 - Systems design
 
