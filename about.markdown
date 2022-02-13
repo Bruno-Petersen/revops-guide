@@ -4,6 +4,8 @@ title: About
 permalink: /about/
 ---
 
+![forest](/assets/img/avatar.jpg)
+
 testing radonm text here
 
 testing radonm text here

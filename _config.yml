@@ -29,8 +29,8 @@ url: "https://revopsguide.net" # the base hostname & protocol for your site, e.g
 color_scheme: custom
 search_enabled: true
 # Build settings
-# theme: "just-the-docs"
-remote_theme: pmarsceill/just-the-docs
+theme: "just-the-docs"
+# remote_theme: pmarsceill/just-the-docs
 # theme: minima
 # plugins:
 # - jekyll-feed
