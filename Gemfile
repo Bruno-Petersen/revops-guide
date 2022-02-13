@@ -8,10 +8,10 @@ source "https://rubygems.org"
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
 
-gem "jekyll", "~> 4.2.1"
-gem "just-the-docs"
+# gem "jekyll", "~> 4.2.1"
+# gem "just-the-docs"
 
-# gem "github-pages","~> 223", group: :jekyll_plugins
+gem "github-pages","~> 223", group: :jekyll_plugins
 # gem 'github-pages'
 
 # If you have any plugins, put them here!
