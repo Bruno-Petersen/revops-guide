@@ -30,8 +30,8 @@ url: "https://revopsguide.net" # the base hostname & protocol for your site, e.g
 search_enabled: true
 # Build settings
 # theme: "just-the-docs"
-remote_theme: "just-the-docs"
-# theme: minima
+# remote_theme: "just-the-docs"
+theme: minima
 # plugins:
 # - jekyll-feed
 # Exclude from processing.
