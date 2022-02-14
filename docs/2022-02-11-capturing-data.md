@@ -1,9 +1,9 @@
 ---
 layout: default
-title: "Capturing Data"
+title: Capturing Data
 date: 2021-02-12 20:46:17 +0100
 nav_order: 1
-parent: Working with Data
+parent: Data
 ---
 
 # Capturing data
