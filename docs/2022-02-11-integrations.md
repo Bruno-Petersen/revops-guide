@@ -3,7 +3,7 @@ layout: default
 title: "Integrations"
 date: 2021-02-12 20:46:17 +0100
 parent: Systems
-# permalink: /test/
+has_children: true
 ---
 
 - Automation
