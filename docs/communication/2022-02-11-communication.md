@@ -17,6 +17,8 @@ Excelling at different types of communication is especially valuable in revenue 
 
 Improving your communication skills is, therfore, one of the best things to work on.
 
+---
+
 ## "Communication" is not a single skill
 
 Improving "communication skills" is a vague recommendation that is hard to take action on. I would therefore recommend working on different aspects of communication separately. That is what helped me most.
