@@ -30,11 +30,12 @@ color_scheme: custom
 search_enabled: true
 # Build settings
 # theme: "just-the-docs"
-# remote_theme: pmarsceill/just-the-docs
-remote_theme: Potherca/extend-the-docs@theme
+remote_theme: pmarsceill/just-the-docs
 
-nav:
-  favicon_ico: /favicon.ico
+# remote_theme: Potherca/extend-the-docs@theme
+
+# nav:
+  # favicon_ico: /favicon.ico
 
 # theme: minima
 # plugins:
