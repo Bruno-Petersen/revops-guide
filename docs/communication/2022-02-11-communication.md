@@ -32,8 +32,8 @@ Categories of communication that I have found to be useful to distinguis are:
 
 In the following sections I will explore each of these categories.
 
-{% 2022-02-11-writing %}
+{% 2022-02-11-writing.md %}
 
 ...
 
-[writing]({% 2022-02-11-writing %})
+[writing]({% 2022-02-11-writing.md %})
