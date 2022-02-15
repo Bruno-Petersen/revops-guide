@@ -32,4 +32,8 @@ Categories of communication that I have found to be useful to distinguis are:
 
 In the following sections I will explore each of these categories.
 
+{% link /writing.html %}
 
+...
+
+[writing]({% link /writing.html %})
