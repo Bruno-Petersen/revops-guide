@@ -23,7 +23,7 @@ Improving "communication skills" is a vague recommendation that is hard to take 
 
 Categories of communication that I have found to be useful to distinguis are:
 
-- **Speaking**, both when presenting as well as in regular conversation.
+- **[Speaking](https://revopsguide.net/speaking.html)**, both when presenting as well as in regular conversation.
 - **Writing** and distinguishing long-form writing from business messages
 - Asking **Questions** and understanding requirements
 - **Listening** to what others have to say
@@ -32,7 +32,6 @@ Categories of communication that I have found to be useful to distinguis are:
 
 In the following sections I will explore each of these categories.
 
-{{ site.base_url }}{% link /writing.html %}
 
 
 
