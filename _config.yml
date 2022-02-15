@@ -32,6 +32,9 @@ search_enabled: true
 # theme: "just-the-docs"
 remote_theme: pmarsceill/just-the-docs
 
+nav:
+  favicon_ico: /favicon.ico
+
 # theme: minima
 # plugins:
 # - jekyll-feed
