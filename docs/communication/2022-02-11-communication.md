@@ -32,8 +32,8 @@ Categories of communication that I have found to be useful to distinguis are:
 
 In the following sections I will explore each of these categories.
 
-{% /docs/communication/2022-02-11-writing %}
+{% post_url /docs/communication/2022-02-11-writing %}
 
 ...
 
-[writing]({% /docs/communication/2022-02-11-writing %})
+[writing]({% post_url /docs/communication/2022-02-11-writing %})
