@@ -19,18 +19,18 @@ Improving your communication skills is, therfore, one of the best things to work
 
 ---
 
-## "Communication" is not a single skill
+## Different aspects of communication
 
 Improving "communication skills" is a vague recommendation that is hard to take action on. I would therefore recommend working on different aspects of communication separately. That is what helped me most.
 
 Categories of communication that I have found to be useful to distinguis are:
 
 - **[Speaking](https://revopsguide.net/speaking.html)**, both when presenting as well as in regular conversation.
-- **Writing** and distinguishing long-form writing from business messages
-- Asking **Questions** and understanding requirements
-- **Listening** to what others have to say
-- Working with multiple **Stakeholders** which adds a strategic dimension to communication
-- Using **Visuals** to get your point across
+- **[Writing](https://revopsguide.net/writing.html)** and distinguishing long-form writing from business messages
+- Asking **[Questions](https://revopsguide.net/questions.html)** and understanding requirements
+- **[Listening](https://revopsguide.net/listening.html)** to what others have to say
+- Working with multiple **[Stakeholders](https://revopsguide.net/stakeholders.html)** which adds a strategic dimension to communication
+- Using **[Visuals](https://revopsguide.net/visuals.html)** to get your point across
 
 In the following sections I will explore each of these categories.
 
