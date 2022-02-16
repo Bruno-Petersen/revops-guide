@@ -4,15 +4,18 @@ title: About
 permalink: /about/
 ---
 # About
-Hi my name is Bruno and I work in Revenue Operations at Funnel.io in Stockholm.
+Hi,
+my name is Bruno and I work in Revenue Operations at [Funnel.io](https://funnel.io/) in Stockholm.
 
-I originally worked in industrial process engineering and ended up in RevOps after building custom integrations at Funnel for a while. 
+I originally worked in industrial process engineering and ended up in RevOps after building custom integrations at Funnel. 
 
-The RevOps Guide is something I started because I've been missing a central place for information about revenue operations in SaaS. It also gives me an opportunity to practice my web develpment skills. 
+The RevOps Guide is something I started because I've been missing a central place for information about revenue operations in SaaS. 
+Writing the content myself also allows me to practice my web development skills. 
 
-There is a lot of great information out there, but that content is often geared towards other fields such as sales and marketing. My goal is to make this page a reliable source of information with no fluff for anyone working in RevOps. 
+My goal is making this site a useful source of information for anyone working in RevOps. 
+With no fluff.
 
-If you're interested in having a chat feel free to reach out on [Linkedin](https://www.linkedin.com/in/bruno-petersen/).
+Reach out to me on [Linkedin](https://www.linkedin.com/in/bruno-petersen/) if you want to chat.
 
 ![ocean](/assets/img/ocean.jpg)
 
