@@ -37,6 +37,17 @@ remote_theme: pmarsceill/just-the-docs
 # nav:
   # favicon_ico: /favicon.ico
 
+
+
+# Back to top link
+back_to_top: true
+back_to_top_text: "Back to top"
+
+footer_content: "Copyright &copy; 2022 Bruno Petersen"
+
+
+
+
 # theme: minima
 # plugins:
 # - jekyll-feed
