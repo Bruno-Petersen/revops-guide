@@ -9,3 +9,5 @@ permalink: /visualising-data.html
 
 # Visualising Data
 
+* Show me the numbers
+* The Visual Display of Quantitative Information - E. Tufte
