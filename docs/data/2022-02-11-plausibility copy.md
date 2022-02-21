@@ -291,7 +291,13 @@ extract_days(add_days(1,${date})) = 1
 
 -- The logic is “tomorrow’s day of month is 1”. That is, the day after the last day of the month will always be the 1st of a month.
 
-extract_days(add_days(-1, date(extract_years(add_months(1, ${date})), extract_months(add_months(1, ${date})), 1)))
+extract_days(
+        add_days(-1, 
+            date(
+                extract_years(add_months(1, ${date})), extract_months(add_months(1, ${date})), 
+                1)
+                )
+            )
 
 -- 1	First, assume ${date} is January 10, 2020.
 -- 2	Then extract_years(add_months(1, ${date})) is the year of the next month, which is 2020. Let's call this year.
