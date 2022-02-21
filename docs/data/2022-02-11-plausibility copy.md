@@ -268,14 +268,14 @@ SPARKLINE(A1:A5, {"charttype","column"; "axis", true; "axiscolor", "red"})
 `<img src="https://your.website.com/your-image.jpg" width="100" height="100"/>`
 
 ### Forcing Table Calculations onto an Axis
-```SQL
+```sql
 -- A calculation is typically plotted as a dimension if no measures are involved in the formula. We can make a table calculation behave as a measure by including a measure in the calculation's expression. The key is making sure the measure won't affect the value of the original dimension.
 
-For a numerical field, the calculation will be:
+-- For a numerical field, the calculation will be:
 ${mydimension} + (0 * ${mymeasure})
 
 -- For a string field, the calculation will involve
--- if(is_null(${mymeasure}),${string_dimension},${string_dimension})
+if(is_null(${mymeasure}),${string_dimension},${string_dimension})
 ```
 
 ### Summing across a pivoted value
@@ -309,8 +309,7 @@ extract_days(add_days(-1, date(extract_years(add_months(1, ${date})), extract_mo
 
 mod(
     diff_days(date(2008,01,01), 
-    ${date}) + 1, 
-    7
+    ${date}) + 1, 7
     )
 
 ```
