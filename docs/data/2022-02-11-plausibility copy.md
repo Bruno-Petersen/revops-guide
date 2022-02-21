@@ -269,16 +269,92 @@ SPARKLINE(A1:A5, {"charttype","column"; "axis", true; "axiscolor", "red"})
 
 ### Forcing Table Calculations onto an Axis
 ```SQL
-#A calculation is typically plotted as a dimension if no measures are involved in the formula. We can make a table calculation behave as a measure by including a measure in the calculation's expression. The key is making sure the measure won't affect the value of the original dimension.
+A calculation is typically plotted as a dimension if no measures are involved in the formula. We can make a table calculation behave as a measure by including a measure in the calculation's expression. The key is making sure the measure won't affect the value of the original dimension.
 
-# For a numerical field, the calculation will be:
+For a numerical field, the calculation will be:
 ${mydimension} + (0 * ${mymeasure})
 
-# For a string field, the calculation will involve
+For a string field, the calculation will involve
 if(is_null(${mymeasure}),${string_dimension},${string_dimension})
 ```
 
 ### Summing across a pivoted value
 ```SQL
 sum(pivot_row(${metric}))
+```
+
+### Last day of the month
+```SQL
+Determine whether a date is on the last day of the month: - Dimension
+
+extract_days(add_days(1,${date})) = 1
+
+The logic is “tomorrow’s day of month is 1”. That is, the day after the last day of the month will always be the 1st of a month.
+
+extract_days(add_days(-1, date(extract_years(add_months(1, ${date})), extract_months(add_months(1, ${date})), 1)))
+
+	1	First, assume ${date} is January 10, 2020.
+	2	Then extract_years(add_months(1, ${date})) is the year of the next month, which is 2020. Let's call this year.
+	3	Similarly, extract_months(add_months(1, ${date})) returns the month number of the next month, which is 2. Call this month.
+	4	Now date([year],[month],1) returns 2/1/2020, the first day of next month. We'll call this next_month.
+5	Next, add_days(-1, [next_month]) travels one day backwards, to reach the last day of this month, which in our example returns January 31, 2020. Call this last_day.
+	6	Finally, extract_days([last_day]) returns the day number of last_day. In this example, this returns 31, the number of days in January!
+
+
+```
+### Last day of the Week
+```sql
+ useful when working with snapshots grouped by week
+ Returns the day of the week (0-indexed) e.g. 6 for Sunday.
+ 
+mod(
+    diff_days(date(2008,01,01), 
+    ${date}) + 1, 
+    7
+    )
+
+```
+### Rolling Average
+```SQL
+# Rolling average
+mean(offset_list(${field_being_averaged},0,7))
+
+# offset_list takes three arguments: the column from which you want to grab the offset values, how far from the current row you want to start the offset, and how long you want the offset list to be. You can change the number of rows (the last argument of the function, or 7 in this case) to increase your window, and you can change where the window will start (the second to last argument of the function, or 0). Positive numbers will move down, and negative numbers will move up. So to get the average of the ten values above the current row, you can do:
+mean(offset_list(${value},-10,10))
+
+#We can adjust our table calc to set nulls to 0s, using something like 
+mean(offset_list(coalesce(${field_being_averaged}, 0),0,3)) 
+#to replace nulls with 0s. The average would then be 6/3 = 2.
+
+
+
+# ignoring null values
+if(
+    is_null(${total_amount}),
+    null, 
+    mean(offset_list(${total_amount}, 1, 13))
+   )
+```
+
+
+### Defining Cases
+```sql
+if(is_null(${some_field}),
+    case(
+      when(
+        diff_days(
+          to_date("2022-01"),
+          ${date_x}) = 0, 113,
+      when(
+        diff_days(
+          to_date("2022-02"),
+          ${date_x}) = 0, 215),
+
+      when(
+        diff_days(
+          to_date("2022-03"),
+          ${date_x}) = 0, 123),
+      null),
+    null)
+)
 ```
