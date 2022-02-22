@@ -44,7 +44,7 @@ markdown: kramdown
 back_to_top: true
 back_to_top_text: "Back to top"
 
-footer_content: "Copyright &copy; 2022 Bruno Petersen"
+footer_content: "Copyright &copy; 2022 <a href="https://www.linkedin.com/in/bruno-petersen/" target="_blank">Bruno Petersen</a>"
 
 
 
