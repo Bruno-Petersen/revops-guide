@@ -18,7 +18,7 @@ IFERROR(value, [value_if_error])
 ```
 <details>
   <summary>More Detail</summary>
-  ```
+ 
   e.g. IFERROR(A1,"Error in cell A1") -> IFERROR(A2)
   <br>
 <ul>
@@ -26,7 +26,6 @@ IFERROR(value, [value_if_error])
   <li>	value_if_error - [ OPTIONAL - blank by default ] - The value the function returns if value is an error.
 </ul>
 
-  ```
 </details>
 
 ### VLOOKUP
