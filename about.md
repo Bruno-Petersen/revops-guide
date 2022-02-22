@@ -17,6 +17,6 @@ With no fluff.
 
 Reach out to me on [Linkedin](https://www.linkedin.com/in/bruno-petersen/) if you want to chat.
 
-![ocean](/assets/img/ocean.jpg)
+![ocean](/assets/img/ocn.jpg)
 
 
