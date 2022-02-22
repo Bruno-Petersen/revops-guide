@@ -15,23 +15,17 @@ This page is a collection of functions I have found to be useful when working wi
 ### IFERROR
 ```
 IFERROR(value, [value_if_error])
-# A collapsible section with markdown
-
-e.g. IFERROR(A1,"Error in cell A1")
-IFERROR(A2)
-
-•	value - The value to return if value itself is not an error.
-•	value_if_error - [ OPTIONAL - blank by default ] - The value the function returns if value is an error.
-
 ```
 <details>
   <summary>More Detail</summary>
   ```
-  e.g. IFERROR(A1,"Error in cell A1")
-IFERROR(A2)
+  e.g. IFERROR(A1,"Error in cell A1") -> IFERROR(A2)
+  <br>
+<ul>
+  <li>	value - The value to return if value itself is not an error.
+  <li>	value_if_error - [ OPTIONAL - blank by default ] - The value the function returns if value is an error.
+</ul>
 
-•	value - The value to return if value itself is not an error.
-•	value_if_error - [ OPTIONAL - blank by default ] - The value the function returns if value is an error.
   ```
 </details>
 
