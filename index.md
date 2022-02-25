@@ -7,3 +7,5 @@ nav_exclude: true
 ---
 
 # Welcome to the Revenue Operations Guide
+
+RevOps Guide is a collection of concepts, explanations, how-to guides and tutorials relating to Revenue Operations.
