@@ -2,17 +2,19 @@
 layout: default
 title: Useful Functions
 date: 2021-02-12 20:46:17 +0100
-nav_order: 7
+nav_order: 8
 parent: Data
 permalink: /useful-functions.html
 ---
 
 # Useful Functions
 
-This page is a collection of functions I have found to be useful when working with Google sheets and Looker. 
+This page is a collection of functions I have found to be useful when working with Google sheets and Looker.
 
 ## Google Sheets
+
 ### IFERROR
+
 ```
 IFERROR(value, [value_if_error])
 # A collapsible section with markdown
@@ -26,6 +28,7 @@ IFERROR(A2)
 ```
 
 ### VLOOKUP
+
 ```
 VLOOKUP(search_key, range, index, [is_sorted])
 
@@ -40,6 +43,7 @@ VLOOKUP(search_key, range, index, [is_sorted])
 ```
 
 ### SUBSTITUTE
+
 ```
 SUBSTITUTE(text_to_search, search_for, replace_with, [occurrence_number])
 e.g. SUBSTITUTE("search for it","search for","Google")
@@ -55,6 +59,7 @@ SUBSTITUTE("January 2, 2012",2,3,1)
 ```
 
 ### REGEXMATCH
+
 ```
 REGEXMATCH(text, regular_expression)
 
@@ -63,8 +68,8 @@ REGEXMATCH(text, regular_expression)
 
 ```
 
-
 ### SPLIT
+
 ```
 SPLIT(text, delimiter, [split_by_each], [remove_empty_text])
 
@@ -77,6 +82,7 @@ SPLIT(text, delimiter, [split_by_each], [remove_empty_text])
 ```
 
 ### REPLACE
+
 ```
 REPLACE(text, position, length, new_text)
 e.g. REPLACE("Spreadsheets", 1, 6, "Bed")
@@ -89,6 +95,7 @@ e.g. REPLACE("Spreadsheets", 1, 6, "Bed")
 ```
 
 ### INDIRECT
+
 ```
 INDIRECT(cell_reference_as_string, [is_A1_notation])
 
@@ -97,8 +104,8 @@ INDIRECT(cell_reference_as_string, [is_A1_notation])
 Returns the contents of the reference which can be a cell or an area.
 ```
 
-
 ### IMPORTRANGE
+
 ```
 =IMPORTRANGE("https://docs.google.com/spreadsheets/d/abcd123abcd123", "sheet1!A1:C10")
 
@@ -107,8 +114,8 @@ For example, you may track quarterly sales data for a product in a different spr
 
 ```
 
-
 ### TRANSPOSE
+
 ```
 TRANSPOSE(array_or_range)
 e.g. TRANSPOSE({1,2;3,4;5,6})
@@ -119,6 +126,7 @@ TRANSPOSE(A2:F9)
 ```
 
 ### DATE
+
 ```
 DATE(year, month, day)
 e.g. DATE(1969,7,20)
@@ -166,6 +174,7 @@ DAY("7/20/1969")
 ```
 
 ### DATEDIFF
+
 ```
 DATEDIF(start_date, end_date, unit)
 e.g. DATEDIF(DATE(1969, 7, 16), DATE(1969, 7, 24), "D")
@@ -185,6 +194,7 @@ DATEDIF("7/16/1969", "7/24/1969", "Y")
 ```
 
 ### FILTER
+
 ```
 FILTER(range, condition1, [condition2, ...])
 e.g. FILTER(A2:B26, A2:A26 > 5, D2:D26 < 10)
@@ -200,6 +210,7 @@ Returns a filtered version of the source range, returning only rows or columns t
 ```
 
 ### UNIQUE
+
 ```
 UNIQUE(range)
 e.g. UNIQUE(A2:B26)
@@ -211,6 +222,7 @@ Returns unique rows in the provided source range, discarding duplicates. Rows ar
 ```
 
 ### SPARKLINE
+
 ```
 SPARKLINE(data, [options])
 e.g. SPARKLINE(A1:F1)
@@ -266,10 +278,13 @@ SPARKLINE(A1:A5, {"charttype","column"; "axis", true; "axiscolor", "red"})
 ```
 
 ## Looker
+
 ### Adding an Image to Looker
+
 `<img src="https://your.website.com/your-image.jpg" width="100" height="100"/>`
 
 ### Forcing Table Calculations onto an Axis
+
 ```sql
 -- A calculation is typically plotted as a dimension if no measures are involved in the formula. We can make a table calculation behave as a measure by including a measure in the calculation's expression. The key is making sure the measure won't affect the value of the original dimension.
 
@@ -281,11 +296,13 @@ if(is_null(${mymeasure}),${string_dimension},${string_dimension})
 ```
 
 ### Summing across a pivoted value
+
 ```sql
 sum(pivot_row(${metric}))
 ```
 
 ### Last day of the month
+
 ```sql
 -- Determine whether a date is on the last day of the month: - Dimension
 
@@ -294,9 +311,9 @@ extract_days(add_days(1,${date})) = 1
 -- The logic is “tomorrow’s day of month is 1”. That is, the day after the last day of the month will always be the 1st of a month.
 
 extract_days(
-        add_days(-1, 
+        add_days(-1,
             date(
-                extract_years(add_months(1, ${date})), extract_months(add_months(1, ${date})), 
+                extract_years(add_months(1, ${date})), extract_months(add_months(1, ${date})),
                 1)
                 )
             )
@@ -310,26 +327,30 @@ extract_days(
 
 
 ```
+
 ### Last day of the Week
+
 ```sql
 --  useful when working with snapshots grouped by week
 --  Returns the day of the week (0-indexed) e.g. 6 for Sunday.
 
 mod(
-    diff_days(date(2008,01,01), 
+    diff_days(date(2008,01,01),
     ${date}) + 1, 7
     )
 
 ```
+
 ### Rolling Average
+
 ```sql
 mean(offset_list(${field_being_averaged},0,7))
 
 -- offset_list takes three arguments: the column from which you want to grab the offset values, how far from the current row you want to start the offset, and how long you want the offset list to be. You can change the number of rows (the last argument of the function, or 7 in this case) to increase your window, and you can change where the window will start (the second to last argument of the function, or 0). Positive numbers will move down, and negative numbers will move up. So to get the average of the ten values above the current row, you can use:
 mean(offset_list(${value},-10,10))
 
--- We can adjust our table calc to set nulls to 0s, using something like 
-mean(offset_list(coalesce(${field_being_averaged}, 0),0,3)) 
+-- We can adjust our table calc to set nulls to 0s, using something like
+mean(offset_list(coalesce(${field_being_averaged}, 0),0,3))
 -- to replace nulls with 0s. The average would then be 6/3 = 2.
 
 
@@ -337,13 +358,13 @@ mean(offset_list(coalesce(${field_being_averaged}, 0),0,3))
 -- ignoring null values
 if(
     is_null(${total_amount}),
-    null, 
+    null,
     mean(offset_list(${total_amount}, 1, 13))
    )
 ```
 
-
 ### Defining Cases
+
 ```sql
 if(is_null(${some_field}),
     case(
