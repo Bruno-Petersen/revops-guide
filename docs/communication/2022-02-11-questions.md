@@ -8,23 +8,24 @@ permalink: /questions.html
 ---
 
 # Questions
+
 What makes a good question?
 
 Being good at asking questions is crucial when working in revenue operations.
 
 Some of the reasons we ask questions are to...
 ...understand something more deeply.
-...figure out the exact requirements for a project. 
-...empathize and build relationships with others. 
+...figure out the exact requirements for a project.
+...empathize and build relationships with others.
 ...help others come to their own conclusions.
 ...challenge our own or others' assumptions.
 ...solicit feedback.
 
-But asking good questions is surprisingly difficult. 
+But asking good questions is surprisingly difficult.
 There are some common pitfalls we can try to avoid.
 
-
 ## Common pitfalls when asking questions
+
 - Asking Closed questions when an open question would be better “is it”, “does it..”
 - Question stacking: “So, how much testing has been done? I mean, do we really have all the bugs identified? Yeah, I just really think it’s important to know that — are we good to go?” (try to avoid “and” in questions)
 - Not leaving enough silence after a good question that got the other person thinking - try to leave at least 7 seconds
@@ -40,10 +41,4 @@ There are some common pitfalls we can try to avoid.
 - “Saving face” Glossing over things that the other person says that weren’t clear instead of seeking to clarify
 - Answering your question or giving suggestions to your question
 
-
-
-
-
-
-
-
+# Listening
