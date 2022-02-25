@@ -17,20 +17,20 @@ The goal is to make it easy for others working in RevOps to discover helpful and
 Posts are grouped by topic on the lefthand side.
 The searchbar at the top lets you search across all pages.
 
-## Recent Updates:
+### Recent Updates:
 
 The following pages have recently been updated:
 
-Data:
+### Data:
 
 - [Useful functions](https://revopsguide.net/useful-functions.html)
 
-Communication:
+### Communication:
 
 - [Writing](https://revopsguide.net/writing.html)
 - [Questions](https://revopsguide.net/questions.html)
 - [Visuals](https://revopsguide.net/visuals.html)
 
-SaaS:
+### SaaS:
 
 - [Acronyms](https://revopsguide.net/acronyms.html)
