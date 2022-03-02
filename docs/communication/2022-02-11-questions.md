@@ -13,12 +13,12 @@ What makes a good question?
 
 Being good at asking questions is crucial when working in revenue operations.
 
-Some of the reasons we ask questions are to...
-...understand something more deeply.
-...figure out the exact requirements for a project.
-...empathize and build relationships with others.
-...help others come to their own conclusions.
-...challenge our own or others' assumptions.
+Some of the reasons we ask questions are to...  
+...understand something more deeply.  
+...figure out the exact requirements for a project.  
+...empathize and build relationships with others.  
+...help others come to their own conclusions.  
+...challenge our own or others' assumptions.  
 ...solicit feedback.
 
 But asking good questions is surprisingly difficult.
