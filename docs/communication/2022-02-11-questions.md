@@ -38,7 +38,8 @@ There are some common pitfalls we can try to avoid.
 
 - Leading questions: “Have you thought the effect this might have on our sales cycle?”. Leading questions suggest a conclusion without outright stating it. They are useful when guiding someone to a conclusion you want them to reach. If you intend to truly understand what someone is thinking they get in the way.
 
-- Why questions: “Why would you want to do that?”
+- Why questions: “Why would you want to do that?” The word "why" has an accusatory ring to it. Asking why is a way to put others on the defensive. Rather than asking why try asking what, how, where. You can ask for the same information while not sounding confrontational. Note that it is tempting to use leading questions when replacing why. "Why would you want to do that?" becomes "What led you to that conclusion?".
+
 - Dirty questions: “Do you have the courage to stand up to them?”
 - Binary questions: “Are we good to launch?” “Will it work?” “Is it safe?”.
 - Self-affirming questions: “We’re good to launch, right?” “Does that make sense?”
