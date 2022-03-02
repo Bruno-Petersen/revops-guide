@@ -50,3 +50,5 @@ There are some common pitfalls we can try to avoid.
 - Answering your question or giving suggestions to your question
 
 # Listening
+
+> this is a random quote

@@ -1,6 +1,6 @@
 // This is the one that actually makes a difference
 a {
-  color: #1648ab
+  color: #1648ab;
 }
 
 ::selection {
@@ -20,5 +20,19 @@ a {
 }
 
 .main-content .anchor-heading svg {
-    color: #1648ab;
+  color: #1648ab;
+}
+
+blockquote:not(.pull-quote) {
+  font-style: italic;
+  border-left: 11px solid #e6e4e1;
+  padding: 1em calc(1.5em + 0.5vw);
+  color: #424242;
+  margin-left: 0;
+  margin-right: 0;
+  font-size: 1.05em;
+  line-height: 1.65em;
+  letter-spacing: 0;
+  border-radius: 11px;
+  background: linear-gradient(to bottom right, #f5f2f0e3 0, #fff 100%);
 }
