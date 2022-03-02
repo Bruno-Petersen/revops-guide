@@ -26,13 +26,21 @@ There are some common pitfalls we can try to avoid.
 
 ## Common pitfalls when asking questions
 
-- Asking Closed questions when an open question would be better “is it”, “does it..”
-- Question stacking: “So, how much testing has been done? I mean, do we really have all the bugs identified? Yeah, I just really think it’s important to know that — are we good to go?” (try to avoid “and” in questions)
-- Not leaving enough silence after a good question that got the other person thinking - try to leave at least 7 seconds
-- Leading questions: “Have you thought about the needs of the client?”
+- Asking closed questions when an open question would be better.
+  Closed questions that can be answered with yes or no are useful to frame the conversation.
+  Open questions are useful when trying to understand someone elses position.
+  "Does that make sense?" invites the answer "Yes".
+  Whereas "What questions do you have?" opens room for discussion.
+
+- Question stacking. This is asking several questions in a row which usually results in the easiest or the last question being answered. For example: "So, how are our leads performing? Has the conversion rate gone up? Does that mean that our new coaching initiative is working and should we roll out the new training to other teams?". I find this happens most often when I am nervous or I haven't thought through or written down my questions in advance of an important conversation. A simple rule of thumb can be to only ask one question at a time. Another recommendation is to avoid the word "and" in questions.
+
+- Not leaving enough silence after a good question that got the other person thinking - try to leave at least 7 seconds. If you're not leaving enough silence after a question you are effectively question stacking again. Leaving a pause can be uncomfortable at the beginning. Resist the urge to fill the silence.
+
+- Leading questions: “Have you thought the effect this might have on our sales cycle?”. Leading questions suggest a conclusion without outright stating it. They are useful when guiding someone to a conclusion you want them to reach. If you intend to truly understand what someone is thinking they get in the way.
+
 - Why questions: “Why would you want to do that?”
 - Dirty questions: “Do you have the courage to stand up to them?”
-- Binary questions: “Are we good to launch?” “Will it work?” “Is it safe?”
+- Binary questions: “Are we good to launch?” “Will it work?” “Is it safe?”.
 - Self-affirming questions: “We’re good to launch, right?” “Does that make sense?”
 - Aggressive questioning: Straight to “What should we do?”
 - "Double-tap" Asking a great open question, and while the other person is thinking, asking a closed question to fill the silence.
