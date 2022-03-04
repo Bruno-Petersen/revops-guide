@@ -36,3 +36,8 @@ blockquote:not(.pull-quote) {
   border-radius: 11px;
   background: linear-gradient(to bottom right, #f4f5fb 0, #f5f6fa 100%);
 }
+
+::selection {
+  color: #fff;
+  background: #1648ab;
+}

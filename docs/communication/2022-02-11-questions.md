@@ -57,7 +57,7 @@ There are some common pitfalls we can try to avoid.
 
 If you are interested in reading more about this type of communication I highly recommend David Marquets book [Leadership is Language](https://intentbasedleadership.com/leadership-is-language-book/). It covers questions and a lot of other communication topics in great detail.
 
-# Listening
+## Listening
 
 If you are interested in reading more about this type of communication I highly recommend David Marquets book [Leadership is Language](https://intentbasedleadership.com/leadership-is-language-book/). It covers questions and a lot of other communication topics in great detail.
 
