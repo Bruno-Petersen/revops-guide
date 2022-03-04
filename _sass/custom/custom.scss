@@ -3,9 +3,9 @@ a {
   color: #1648ab;
 }
 
-::selection {
-  background: #1d4aa5ab;
-}
+// ::selection {
+//   background: #1d4aa5ab;
+// }
 
 .nav-list .nav-list-item .nav-list-expander {
   color: #1648ab;
@@ -46,5 +46,9 @@ blockquote:not(.pull-quote) {
   color: #1648ab;
 }
 .search-label .search-icon {
+  color: #1648ab;
+}
+
+.search-icon {
   color: #1648ab;
 }
