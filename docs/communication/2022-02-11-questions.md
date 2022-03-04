@@ -61,4 +61,4 @@ If you are interested in reading more about this type of communication I highly 
 
 If you are interested in reading more about this type of communication I highly recommend David Marquets book [Leadership is Language](https://intentbasedleadership.com/leadership-is-language-book/). It covers questions and a lot of other communication topics in great detail.
 
-[^1]: Emotive conjugation, sometimes called Russell's conjugation is when someone chooses different words to describe something, depending on how favorable they want to be to the thing they are describing. For example "I have reconsidered the matter, you have changed your mind, he has gone back on his word.". Read more on [wikipedia](https://en.wikipedia.org/wiki/Emotive_conjugation)
+[^1]: Emotive conjugation, sometimes called Russell's conjugation is when someone chooses different words to describe something, depending on how good they want the thing they are describing to look. For example "I have reconsidered the matter, you have changed your mind, he has gone back on his word.". Read more on [wikipedia](https://en.wikipedia.org/wiki/Emotive_conjugation)
