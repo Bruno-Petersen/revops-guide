@@ -25,14 +25,22 @@ Improving your communication skills is, therefore, one of the best things to wor
 There are different models of communication. I find the transactional model to be useful when thinking about different aspects of communication.
 This model is useful because it provides a general framework. Communication consits of eight essential components. They are:
 
-- **Source**: The source imagines, creates, and sends the message.[^2]
-- **Message**: "The message is the stimulus or meaning produced by the source for the receiver or audience."[^1]
-- **Channel**: “The channel is the way in which a message or messages travel between source and receiver.”[^1]
-- **Receiver**: “The receiver receives the message from the source, analyzing and interpreting the message in ways both intended and unintended by the source.” [^1]
-- **Feedback**: "When you respond to the source, intentionally or unintentionally, you are giving feedback. Feedback is composed of messages the receiver sends back to the source. [^2]
-- **Environment**: “The environment is the atmosphere, physical and psychological, where you send and receive messages.”[^1]
-- **Context**: “The context of the communication interaction involves the setting, scene, and expectations of the individuals involved.”[^1]
-- **Interference**: “Interference is anything that blocks or changes the source’s intended meaning of the message.”[^1]
+- **Source**:
+  > The source imagines, creates, and sends the message.[^2]
+- **Message**:
+  > "The message is the stimulus or meaning produced by the source for the receiver or audience."[^1]
+- **Channel**:
+  > “The channel is the way in which a message or messages travel between source and receiver.”[^1]
+- **Receiver**:
+  > “The receiver receives the message from the source, analyzing and interpreting the message in ways both intended and unintended by the source.” [^1]
+- **Feedback**:
+  > "When you respond to the source, intentionally or unintentionally, you are giving feedback. Feedback is composed of messages the receiver sends back to the source. [^2]
+- **Environment**:
+  > “The environment is the atmosphere, physical and psychological, where you send and receive messages.”[^1]
+- **Context**:
+  > “The context of the communication interaction involves the setting, scene, and expectations of the individuals involved.”[^1]
+- **Interference**:
+  > “Interference is anything that blocks or changes the source’s intended meaning of the message.”[^1]
 
 What these eight elements show is that communication is complicated and there is plenty of room for things to go wrong. It is easy to be focused on the message and forget about the other elements above. Maybe we chose the wrong channel, for example that Slack message that should have been a face to face conversation. Or we miss that the message is interpreted differently by the receiver. We might similarly misunderstand what people tell us which makes it all the more important that we ask good [questions](https://revopsguide.net/questions.html).
 
