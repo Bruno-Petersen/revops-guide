@@ -20,7 +20,7 @@ Improving your communication skills is, therefore, one of the best things to wor
 
 ---
 
-## General points about communication
+## Elements of communiation
 
 There are different models of communication. I find the transactional model to be useful when thinking about different aspects of communication.
 This model is useful because it provides a general framework. Communication consits of eight essential components. They are:
@@ -34,9 +34,11 @@ This model is useful because it provides a general framework. Communication cons
 - **Context**: “The context of the communication interaction involves the setting, scene, and expectations of the individuals involved.”[^1]
 - **Interference**: “Interference is anything that blocks or changes the source’s intended meaning of the message.”[^1]
 
-These eight aspects are a great starting point when working on getting better [^2]
+What these eight elements show is that communication is complicated and there is plenty of room for things to go wrong. It is easy to be focused on the message and forget about the other elements above. Maybe we chose the wrong channel, for example that Slack message that should have been a face to face conversation. Or we miss that the message is interpreted differently by the receiver. We might similarly misunderstand what people tell us which makes it all the more important that we ask good [questions](https://revopsguide.net/questions.html).
 
-## Different aspects of communication
+I will refer back to the elements of communiation in other sections. The takeway here is that communication is difficult and involves multiple parties. In addition to the message we need to think about who are audience is (receiver), chose the appropriate channel and environment, make sure to provide sufficient context, pay attention to feedback and reduce interfearance.
+
+## Common modes of communication
 
 Improving "communication skills" is a vague recommendation that is hard to take action on. I would therefore recommend working on different aspects of communication separately. That is what helped me most.
 
