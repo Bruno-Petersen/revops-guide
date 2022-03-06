@@ -40,7 +40,7 @@ I will refer back to the elements of communiation in other sections. The takeway
 
 ## Common modes of communication
 
-Improving "communication skills" is a vague recommendation that is hard to take action on. I would therefore recommend working on different aspects of communication separately. That is what helped me most.
+Improving "communication skills" is a vague recommendation that is hard to act on. I would therefore recommend working on different aspects of communication separately. That is what helped me most.
 
 Categories of communication that I have found to be useful to distinguish are:
 
