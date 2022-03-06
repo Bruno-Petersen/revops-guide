@@ -52,3 +52,11 @@ blockquote:not(.pull-quote) {
 .search-input:focus + .search-label .search-icon {
   color: #1648ab;
 }
+.img-left {
+  float: left;
+  margin-right: 1em;
+}
+.img-right {
+  float: right;
+  margin-left: 1em;
+}
