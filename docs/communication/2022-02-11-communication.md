@@ -20,7 +20,7 @@ Improving your communication skills is, therefore, one of the best things to wor
 
 ---
 
-## Elements of communiation
+## Elements of communication
 
 There are different models of communication. I find the transactional model to be useful when thinking about different aspects of communication.
 This model is useful because it provides a general framework. Communication consits of eight essential components. They are:
