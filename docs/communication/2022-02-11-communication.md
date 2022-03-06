@@ -11,8 +11,8 @@ permalink: /communication.html
 
 ## Communication skills matter
 
-We all communicate all the time. Constant communications does not guarantee that we always succeed at communicating, though.
-Clearly articulating your point, while presenting, in conversation or in writing is a crucial skill regardless of profession.
+We all communicate all the time. Constant communication does not guarantee that we always succeed at communicating, though.
+Clearly articulating your point, while presenting, in conversation, or writing is a crucial skill regardless of profession.
 
 Excelling at different types of communication is especially valuable in revenue operations. The list of areas where these skills matter is long: asking insightful questions helps uncover problems, active listening builds trust with others, presenting the latest analysis informs strategic decisions, and writing a thoughtful email or Slack message avoids delays and frustration that come from misunderstandings.
 
@@ -23,20 +23,20 @@ Improving your communication skills is, therefore, one of the best things to wor
 ## Elements of communication
 
 There are different models of communication. I find the transactional model to be useful when thinking about different aspects of communication.
-This model is useful because it provides a general framework. Communication consits of eight essential components. They are:
+This model is useful because it provides a general framework. Communication consists of eight essential components. They are:
 
 - **Source**: The source imagines, creates, and sends the message.[^2]
 - **Message**:The message is the stimulus or meaning produced by the source for the receiver or audience.[^1]
-- **Channel**:The channel is the way in which a message or messages travel between source and receiver.[^1]
+- **Channel**:The channel is how a message or messages travel between source and receiver.[^1]
 - **Receiver**:The receiver receives the message from the source, analyzing and interpreting the message in ways both intended and unintended by the source. [^1]
-- **Feedback**:"When you respond to the source, intentionally or unintentionally, you are giving feedback. Feedback is composed of messages the receiver sends back to the source. [^2]
+- **Feedback**: "When you respond to the source, intentionally or unintentionally, you are giving feedback. Feedback is composed of messages the receiver sends back to the source. [^2]
 - **Environment**:The environment is the atmosphere, physical and psychological, where you send and receive messages.[^1]
 - **Context**:The context of the communication interaction involves the setting, scene, and expectations of the individuals involved.[^1]
 - **Interference**:Interference is anything that blocks or changes the source’s intended meaning of the message.[^1]
 
-What these eight elements show is that communication is complicated and there is plenty of room for things to go wrong. It is easy to be focused on the message and forget about the other elements above. Maybe we chose the wrong channel, for example that Slack message that should have been a face to face conversation. Or we miss that the message is interpreted differently by the receiver. We might similarly misunderstand what people tell us which makes it all the more important that we ask good [questions](https://revopsguide.net/questions.html).
+What these eight elements show is that communication is complicated and there is plenty of room for things to go wrong. It is easy to be focused on the message and forget about the other elements above. Maybe we chose the wrong channel, for example, that Slack message that should have been a face-to-face conversation. Or we miss that the message is interpreted differently by the receiver. We might similarly misunderstand what people tell us which makes it all the more important that we ask good [questions](https://revopsguide.net/questions.html).
 
-I will refer back to the elements of communiation in other sections. The takeway here is that communication is difficult and involves multiple parties. In addition to the message we need to think about who are audience is (receiver), chose the appropriate channel and environment, make sure to provide sufficient context, pay attention to feedback and reduce interfearance.
+I will refer back to the elements of communication in other sections. The takeaway here is that communication is difficult and involves multiple parties. In addition to the message we need to think about who our audience is (receiver), chose the appropriate channel and environment, make sure to provide sufficient context, pay attention to feedback and reduce interference.
 
 ## Common modes of communication
 
