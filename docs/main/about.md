@@ -6,7 +6,7 @@ permalink: /about/
 
 # About
 
-![profile picture](/assets/img/profile_circle.png){: .img-right}
+![profile picture](/assets/img/profile_circle.png){: style="float: right; margin-left: 1em; max-width: 25%;"}
 
 Hi,
 my name is Bruno and I work in Revenue Operations at [Funnel.io](https://funnel.io/) in Stockholm.
