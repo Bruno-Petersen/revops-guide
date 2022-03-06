@@ -6,7 +6,7 @@ permalink: /about/
 
 # About
 
-![profile picture](/assets/img/profile.png)(https://www.linkedin.com/in/bruno-petersen/){: style="float: right; margin-left: 1em; max-width: 25%;"}
+![profile picture](/assets/img/profile.png){: style="float: right; margin-left: 1em; max-width: 25%;"}(https://www.linkedin.com/in/bruno-petersen/)
 
 Hi,
 my name is Bruno and I work in Revenue Operations at [Funnel.io](https://funnel.io/) in Stockholm.
