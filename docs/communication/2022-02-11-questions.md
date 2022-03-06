@@ -51,8 +51,8 @@ There are some common pitfalls we can try to avoid.
 - _Aggressive questioning_: Straight to “What should we do?”
 
 - _Telling instead of asking_. (e.g. giving a prospect an overview of Funnel without first asking what they know about Funnel) -> see [David Marquet Know, Don't tell](https://www.youtube.com/watch?v=op4E6Zp-K8o)
-- Interrupting others to probe further or answer a partly formed question/objection, let them finish before coming back to something that you want to dig deeper on. This can also take the form of being too ready to talk and jumping in at any pause in speech
-- “Saving face” Glossing over things that the other person says that weren’t clear instead of seeking to clarify
+- _Interrupting others_ to probe further or answer a partly formed question/objection, let them finish before coming back to something that you want to dig deeper on. This can also take the form of being too ready to talk and jumping in at any pause in speech
+- _“Saving face”_ Glossing over things that the other person says that weren’t clear instead of seeking to clarify
 - Answering your question or giving suggestions to your question
 
 If you are interested in reading more about this type of communication I highly recommend David Marquet's book [Leadership is Language](https://intentbasedleadership.com/leadership-is-language-book/). It covers questions and a lot of other communication topics in great detail.
