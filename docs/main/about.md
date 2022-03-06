@@ -19,9 +19,7 @@ I started the revops guide for three reasons:
 - to improve at writing and web-development and
 - to share what I have learned in the hope others may find it useful.
 
-My goal is to make this site a useful source of information for anyone working in RevOps.
+My goal is to make this site a useful source of information for anyone working in RevOps.  
 Without fluff.
 
 Reach out on [Linkedin](https://www.linkedin.com/in/bruno-petersen/) if you want to chat.
-
-![ocean](/assets/img/ocn.png)
