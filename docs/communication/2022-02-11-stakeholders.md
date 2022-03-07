@@ -8,3 +8,7 @@ permalink: /stakeholders.html
 ---
 
 # Stakeholders
+
+### Alignment
+
+-> receiver, context
