@@ -59,4 +59,9 @@ If you are interested in reading more about this type of communication I recomme
 
 ## Listening
 
+You ask to understand. Don't stop after asking the question. Listen.
+specific words, active listening
+
+---
+
 [^1]: Emotive conjugation, sometimes called Russell's conjugation is when a person chooses different words to describe something, depending on how good they want the thing they are describing to look. For example "I have reconsidered the matter, you have changed your mind, he has gone back on his word.". Read more on [wikipedia](https://en.wikipedia.org/wiki/Emotive_conjugation)
