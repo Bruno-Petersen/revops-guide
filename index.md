@@ -19,7 +19,7 @@ The searchbar at the top lets you search across all pages.
 
 ### Recent Updates:
 
-The following pages have recently been updated:
+The following pages have been updated:
 
 ### Data:
 
@@ -27,7 +27,9 @@ The following pages have recently been updated:
 
 ### Communication:
 
+- [Communication](https://revopsguide.net/communication.html)
 - [Writing](https://revopsguide.net/writing.html)
+- [Speaking](https://revopsguide.net/speaking.html)
 - [Questions](https://revopsguide.net/questions.html)
 - [Visuals](https://revopsguide.net/visuals.html)
 
