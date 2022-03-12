@@ -11,7 +11,7 @@ permalink: /about/
 Hi,
 my name is Bruno and I work in Revenue Operations at [Funnel.io](https://funnel.io/) in Stockholm.
 
-I originally worked in industrial process engineering.
+I originally worked in industrial process engineering.  
 I ended up in RevOps after building custom integrations at Funnel.
 
 I started the revops guide for three reasons:
