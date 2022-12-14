@@ -7,7 +7,15 @@ parent: Systems
 permalink: /stack.html
 ---
 
-## More Stacks - Teck, Martech, Sales, Data, Analytics Stack
+## Systems and Stacks
+
+In the SaaS industry we often talk about different kinds of stacks because it provides a convenient way to organize and discuss the various technologies and tools that are used to build and run SaaS applications.
+
+For example, the tech stack refers to the combination of technologies and tools that are used to build and run an application, while the martech stack refers to the tools and platforms that are used for marketing purposes. The sales stack and the data stack are similar concepts, referring to the tools and technologies that are used for sales and data management, respectively.
+
+Thinking about different "stacks" in this way can be useful because it helps to identify the different components of an application or system and how they fit together. It also allows people to easily compare and contrast different stacks, and to understand the trade-offs and decisions that need to be made when choosing a particular stack.
+
+## Different Stacks - Teck, Martech, Sales, Data, Analytics Stack
 
 The term "Stack" has found its ways into other areas beyond software development.
 We now talk about martech, sales, data, analytics stack.
@@ -36,6 +44,8 @@ A typical martech stack might include the following components:
 - Email marketing platform: A tool for creating and sending email campaigns, such as Mailchimp, Constant Contact, or Campaign Monitor.
 - Social media management platform: A tool for managing an organization's presence on social media, such as Hootsuite, Buffer, or Sprout Social.
 - Analytics platform: A tool for tracking and analyzing data, such as Google Analytics, Adobe Analytics, or Mixpanel.
+
+If you want to learn more about the Martech Landscape in particular I recommend checking out the [MartechMap](https://martechmap.com/).
 
 ### Sales Stack
 
