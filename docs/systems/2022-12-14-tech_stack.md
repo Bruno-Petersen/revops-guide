@@ -15,7 +15,7 @@ For example, the tech stack refers to the combination of technologies and tools 
 
 Thinking about different "stacks" in this way can be useful because it helps to identify the different components of an application or system and how they fit together. It also allows people to easily compare and contrast different stacks, and to understand the trade-offs and decisions that need to be made when choosing a particular stack.
 
-## Different Stacks - Teck, Martech, Sales, Data, Analytics Stack
+## Different Stacks - Tech, Martech, Sales, Data, Analytics Stack
 
 The term "Stack" has found its ways into other areas beyond software development.
 We now talk about martech, sales, data, analytics stack.

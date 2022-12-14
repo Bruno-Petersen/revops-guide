@@ -22,13 +22,13 @@ Bad identifiers can cause problems because they can lead to confusion, errors, a
 
 The consequences of getting identifiers wrong can be severe, as it can lead to a range of problems and issues. For example, it can make it difficult to accurately and reliably link data between different systems, which can hamper data analysis and decision-making. It can also make it difficult to maintain the integrity and accuracy of your data, which can impact the quality of your products and services.
 
-> To take a SaaS example. If we have a customer named "Acme Ecommerce" , with the account number 1234. If the CRM system uses "Acme Ecommerce" as the identifier for this customer, and the financial customer reporting system uses "1234" as the identifier, it may be difficult to link the data for this customer between the two systems. This could lead to problems such as:
+> To take a SaaS example. If we have a customer named `Acme Ecommerce` , with the account number 1234. If the CRM system uses `Acme Ecommerce` as the identifier for this customer, and the financial customer reporting system uses `1234` as the identifier, it may be difficult to link the data for this customer between the two systems. This could lead to problems such as:
 >
-> Inaccurate data: If the data for "Acme Ecommerce" in the CRM system is not accurately reflected in the financial customer reporting system, it may be difficult to provide accurate and reliable reports to "Acme Ecommerce", which could impact the quality of the service provided to him.
+> Inaccurate data: If the data for `Acme Ecommerce` in the CRM system is not accurately reflected in the financial customer reporting system, it may be difficult to provide accurate and reliable reports to `Acme Ecommerce`, which could impact the quality of the service provided to him.
 >
-> Inconsistent data: If the data for "Acme Ecommerce" in the CRM system is not consistent with the data in the financial customer reporting system, it may be difficult to provide a comprehensive and consistent view of "Acme Ecommerce"'s interactions with the business, which could impact the customer experience and the overall effectiveness of the business.
+> Inconsistent data: If the data for `Acme Ecommerce` in the CRM system is not consistent with the data in the financial customer reporting system, it may be difficult to provide a comprehensive and consistent view of `Acme Ecommerce`'s interactions with the business, which could impact the customer experience and the overall effectiveness of the business.
 >
-> Data errors: If the data for "Acme Ecommerce" in the CRM system is not properly linked to the data in the financial customer reporting system, it may be difficult to detect and correct errors in the data, which could impact the quality and reliability of the data.
+> Data errors: If the data for `Acme Ecommerce` in the CRM system is not properly linked to the data in the financial customer reporting system, it may be difficult to detect and correct errors in the data, which could impact the quality and reliability of the data.
 
 ## Important properties of identifieers
 
@@ -48,15 +48,15 @@ To avoid problems, identifiers should have the following attributes:
 
 Identifiers can take many different forms, depending on the specific system and context in which they are used. Some examples of identifiers in SaaS-related systems include:
 
-- Company/Contact/Deal IDs: In a CRM system, a record ID might be a combination of the customer's first and last name, with a unique number appended to it (e.g., "john_smith_1234"). In HubSpot each object consists of a unique number. In HubSpots case that number is unique for each object type but not unique across objects.
+- Company/Contact/Deal IDs: In a CRM system, a record ID might be a combination of the customer's first and last name, with a unique number appended to it (e.g., `john_smith_1234`). In HubSpot each object consists of a unique number. In HubSpots case that number is unique for each object type but not unique across objects.
 
-- Subscription IDs: In a SaaS subscription platform, a subscription ID might be a combination of the subscriber's name, the subscription plan, and the start date (e.g., "john_smith_enterprise_2022-12-14").
+- Subscription IDs: In a SaaS subscription platform, a subscription ID might be a combination of the subscriber's name, the subscription plan, and the start date (e.g., `john_smith_enterprise_2022-12-14`).
 
-- User IDs: In a social media platform, a user ID might be a combination of the user's username and the platform's domain name (e.g., "john_smith_twitter.com").
+- User IDs: In a social media platform, a user ID might be a combination of the user's username and the platform's domain name (e.g., `john_smith_twitter.com`).
 
-- Transaction IDs: In an e-commerce platform, a transaction ID might be a combination of the date, time, and transaction amount (e.g., "2022-12-14_10-01-23_99.99").
+- Transaction IDs: In an e-commerce platform, a transaction ID might be a combination of the date, time, and transaction amount (e.g., `2022-12-14_10-01-23_99.99`).
 
-Event IDs: In an event management platform, an event ID might be a combination of the event name and location, with a unique number appended to it (e.g., "company_holiday_party_new_york_123456").
+Event IDs: In an event management platform, an event ID might be a combination of the event name and location, with a unique number appended to it (e.g., `company_holiday_party_new_york_123456`).
 
 ## How Identifiers are created
 
