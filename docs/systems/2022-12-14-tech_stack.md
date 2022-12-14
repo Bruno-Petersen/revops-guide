@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Fundamentals
+title: Tech Stacks
 date: 2022-08-09 21:22:19 +0100
 nav_order: 2
 parent: Systems
