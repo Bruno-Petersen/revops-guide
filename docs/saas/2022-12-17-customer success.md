@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Sales
+title: Customer Success
 date: 2022-12-17 23:21:17 +0100
 nav_order: 2
 parent: Departments
 grand_parent: SaaS
-permalink: /sales.html
+permalink: /cs.html
 ---
 
-# Sales
+# Customer Success
