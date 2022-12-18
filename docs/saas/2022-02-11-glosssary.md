@@ -18,13 +18,13 @@ There are many different key performance indicators (KPIs) that are important fo
 
 ### Average Contract Value (ACV)
 
-The average contract value (ACV) is a metric that measures the average revenue generated from a customer over the lifetime of their contract. It is often used to evaluate the performance of a sales team and to benchmark the success of different sales strategies. To calculate the ACV, you divide the total revenue generated from all contracts by the number of contracts.
-
-For example, if a company generates $100,000 in revenue from 10 contracts, the ACV would be $10,000 ($100,000 / 10 contracts). If the company then generates an additional $50,000 in revenue from 5 new contracts, the ACV would increase to $11,000 ($150,000 / 15 contracts).
-
-The ACV can be a useful metric for evaluating the effectiveness of a sales team and for identifying trends in customer demand. It can also be used to compare the performance of different sales teams or sales regions and to benchmark the success of different sales strategies.
-
-It's important to note that the ACV is different from the average selling price ([ASP](https://revopsguide.net/glossary.html#average-sales-price-asp)), which measures the average price of a product or service that is sold. ACV is typically used in B2B (business-to-business) sales, where contracts are typically longer-term and involve a higher value, while [ASP](https://revopsguide.net/glossary.html#average-sales-price-asp) is more commonly used in B2C (business-to-consumer) sales, where transactions are typically smaller and more frequent.
+> The average contract value (ACV) is a metric that measures the average revenue generated from a customer over the lifetime of their contract. It is often used to evaluate the performance of a sales team and to benchmark the success of different sales strategies. To calculate the ACV, you divide the total revenue generated from all contracts by the number of contracts.
+>
+> For example, if a company generates $100,000 in revenue from 10 contracts, the ACV would be $10,000 ($100,000 / 10 contracts). If the company then generates an additional $50,000 in revenue from 5 new contracts, the ACV would increase to $11,000 ($150,000 / 15 contracts).
+>
+> The ACV can be a useful metric for evaluating the effectiveness of a sales team and for identifying trends in customer demand. It can also be used to compare the performance of different sales teams or sales regions and to benchmark the success of different sales strategies.
+>
+> It's important to note that the ACV is different from the average selling price ([ASP](https://revopsguide.net/glossary.html#average-sales-price-asp)), which measures the average price of a product or service that is sold. ACV is typically used in B2B (business-to-business) sales, where contracts are typically longer-term and involve a higher value, while [ASP](https://revopsguide.net/glossary.html#average-sales-price-asp) is more commonly used in B2C (business-to-consumer) sales, where transactions are typically smaller and more frequent.
 
 ### Average Sales Price ([ASP](https://revopsguide.net/glossary.html#average-sales-price-asp))
 
@@ -57,6 +57,8 @@ ARPU can be a useful metric for businesses as it provides insight into the value
 It's important to note that ARPU is different from average revenue per customer (ARPC), which measures the average revenue generated from a customer rather than a user. ARPU is often used in the context of digital media and online services, while ARPC is more commonly used in the context of subscription-based businesses.
 
 ### Annual Recurring Revenue (ARR)
+
+Related to: [Monthly Recurring Revenue (MRR)](https://revopsguide.net/glossary.html#monthly-recurring-revenue-mrr)
 
 Annual recurring revenue (ARR) is a metric that measures the predictable and recurring revenue that a company receives from its customers on an annual basis. It is typically used by SaaS companies to evaluate the performance and growth of the business.
 
@@ -132,6 +134,8 @@ To calculate CLV, you need to estimate the expected revenue that a customer will
 Understanding CLV is important for businesses as it can help to identify the most valuable customers and to prioritize efforts to retain and grow those customers. It can also be used to evaluate the potential return on investment of different marketing and sales efforts and to inform pricing and customer acquisition strategies.
 
 ### Monthly Recurring Revenue (MRR)
+
+Related to: [Annual Recurring Revenue (ARR)](https://revopsguide.net/glossary.html#annual-recurring-revenue-arr)
 
 Monthly recurring revenue (MRR) is a metric that measures the predictable and recurring revenue that a company receives from its customers on a monthly basis. It is typically used by SaaS companies to evaluate the performance and growth of the business.
 
