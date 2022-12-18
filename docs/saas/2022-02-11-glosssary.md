@@ -167,24 +167,97 @@ Related to: [Annual Recurring Revenue (ARR)](https://revopsguide.net/glossary.ht
 
 ## Roles
 
-- Performance Marketer
-- Produc Marketer
-- Growth Marketer
-- Web Developer
-- SEO Strategist
-- SDR
-- BDR
-- SDR/BDR Manager
-- Account Executive
-- Account Manager
-- Sales Manager
-- VP / Director of Sales
-- CRO
-- CMO
-- Customer Success Manager/Partner
-- Support Specialist
-- Revenue Operations Manager
-- Partner Account Manager
-- Solution Consultant / Product Specialist / Technical Sales
-- Data Engineer
-- Analytics Engineer / BI Analyst
+Here you'll find short descriptions of the typical roles and jobs in a SaaS company.
+The purpose of this section is to allow you to get a rough sense of what people in these roles do and what jobs typically need doing as your company scales.
+
+### Account Executive (AE)
+
+Department: [Sales](https://revopsguide.net/sales.html)
+
+> The AE is responsible for identifying and closing sales opportunities with potential customers. This typically involves working closely with the marketing team to identify and prioritize leads, conducting product demonstrations and presentations, negotiating terms and pricing, and closing deals. AEs may also be responsible for maintaining and updating customer data in the company's CRM (customer relationship management) system, and for building and maintaining relationships with key accounts.
+
+### Account Manager
+
+### Analytics Engineer / BI Analyst
+
+### Business Development Representative (BDR)
+
+Department: [RevDev](https://revopsguide.net/revdev.html)
+
+> A BDR is responsible for proactively reaching out to potential customers through cold outreach such as making phone calls and sending emails. They work closely with the sales team to schedule product demos and meetings with potential customers, and may also be responsible for maintaining and updating customer data in the company's CRM (customer relationship management) system. Outbound BDRs are typically focused on generating new leads for the sales team and building relationships with potential customers. The goal of an outbound BDR is to generate interest in the company's products and services and ultimately convert leads into pipeline that conversts to paying customers.
+
+### Chief Revenue Officer (CRO)
+
+### Chief Marketing Office
+
+### Customer Success Manager or Partner (CSM or CSP)
+
+Department: [Customer Success](https://revopsguide.net/cs.html)
+
+> A Customer Success Manager (CSM) at a SaaS (Software as a Service) company is responsible for ensuring that customers are successful in achieving their desired outcomes and goals using the company's products and services. This typically involves working closely with customers to understand their needs and challenges, providing training and support, and proactively identifying and addressing any issues that may arise. CSMs also work closely with the sales and product teams to gather feedback and insights from customers, and may be involved in upselling and cross-selling efforts. The goal of a CSM is to drive customer retention and satisfaction, ultimately contributing to the overall success and growth of the company.
+
+### Data Engineer
+
+### Growth Marketer
+
+Department: [Marketing](https://revopsguide.net/marketing.html)
+
+### Performance Marketer
+
+Department: [Marketing](https://revopsguide.net/marketing.html)
+
+> A performance marketer is a type of digital marketer who focuses on driving measurable results from marketing campaigns. Performance marketers use data and analytics to optimize marketing efforts and to track the performance of marketing campaigns. They are typically focused on driving specific outcomes, such as website traffic, leads, or sales, and use a range of tactics and strategies to achieve these goals.
+>
+> Some specific responsibilities of a performance marketer may include:
+>
+> - **Setting marketing goals and objectives:** Performance marketers work with the marketing team and other stakeholders to define marketing goals and objectives, such as increasing website traffic or generating leads.
+>
+> - **Identifying target audiences:** Performance marketers use data and analytics to identify and segment target audiences and to understand their needs and preferences.
+>
+> - **Developing marketing strategies:** Performance marketers use a range of tactics and strategies to drive measurable results, such as email marketing, social media marketing, content marketing, and paid advertising.
+>
+> - **Analyzing and tracking campaign performance:** Performance marketers use data and analytics tools to track the performance of marketing campaigns and to identify areas for improvement.
+>
+> - **Optimizing campaigns:** Performance marketers use data and analytics to optimize campaigns in real-time and to identify opportunities for improvement.
+
+### Product Manager
+
+> A product Manager is responsible for defining and prioritizing the features and functions of the company's products, and for driving the development and launch of new products or updates. This typically involves working closely with the engineering, design, and sales teams to gather and analyze customer feedback and market insights, and to define the product roadmap. The Product Manager is also responsible for defining and tracking key performance indicators (KPIs) for the product, and for analyzing and reporting on product performance. The goal of a Product Manager is to ensure that the company's products are meeting the needs of customers and contributing to the overall success and growth of the company.
+
+### Product Marketer
+
+Department: [Marketing](https://revopsguide.net/marketing.html)
+
+> A Product Marketer is responsible for developing and executing the marketing strategy for the company's products. This typically involves working closely with the product and marketing teams to understand the features and benefits of the product, and to develop messaging and positioning that resonates with the target audience. The Product Marketer is also responsible for developing and executing campaigns to promote the product, including content creation, events, and digital marketing efforts. They may also be responsible for analyzing and reporting on the performance of product marketing efforts, and for identifying opportunities for improvement. The goal of a Product Marketer is to effectively communicate the value of the company's products to potential and existing customers, and to drive adoption and growth.
+
+### Partner Account Manager
+
+### Revenue Operations Manager
+
+### Sales Manager
+
+Department: [Sales](https://revopsguide.net/sales.html)
+
+### Search Engine Optimisation (SEO) Strategist
+
+### Sales Development Representative (SDR)
+
+Department: [RevDev](https://revopsguide.net/revdev.html)
+
+> A SDR is responsible for responding to and converting inbound leads into sales opportunities. This typically involves responding to customer inquiries, providing product information and demos, and scheduling meetings with the sales team. Inbound SDRs work closely with the marketing team to identify and prioritize leads, and may also be responsible for maintaining and updating customer data in the company's CRM (customer relationship management) system. The goal of an inbound SDR is to effectively qualify and nurture leads, ultimately converting them into pipeline that conversts to paying customers.
+
+### SDR/BDR Manager
+
+Department: [RevDev](https://revopsguide.net/revdev.html)
+
+> A SDR/BDR team manager is responsible for leading and coaching a team of Sales Development Representatives (SDRs) or Business Development Representatives (BDRs). This typically involves setting team goals and targets, establishing processes and best practices, and providing ongoing training and support to team members. The SDR/BDR team manager is also responsible for tracking and analyzing team performance, identifying areas for improvement, and implementing strategies to drive results. They work closely with the sales and marketing teams to ensure that the SDR/BDR team is aligned with the company's overall sales and business goals. The goal of a SDR/BDR team manager is to lead and motivate the team to consistently meet or exceed performance goals and effectively drive sales growth for the company.
+
+### Solution Consultant / Product Specialist / Technical Sales
+
+### Support Specialist
+
+### VP / Director of Sales
+
+Department: [Sales](https://revopsguide.net/sales.html)
+
+### Web Developer
