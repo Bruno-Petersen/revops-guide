@@ -2,7 +2,8 @@
 layout: default
 title: Glossary
 date: 2021-02-12 20:46:17 +0100
-nav_order: 2
+nav_order: 3
+has_children: true
 parent: SaaS
 permalink: /glossary.html
 ---
@@ -22,6 +23,8 @@ Here are some of the most important SaaS KPIs, along with a brief explanation of
 - **Churn rate:** This KPI measures the percentage of customers who cancel their subscription or stop using the company's products or services, and can help to identify areas where the company is losing customers.
 
 - **Net Promoter Score (NPS):** This KPI measures the degree to which customers are likely to recommend the company's products or services to others, and can provide insights into customer satisfaction and loyalty.
+
+## KPIs
 
 ### Average Contract Value (ACV)
 
@@ -75,3 +78,27 @@ To calculate MRR, you add up all the recurring revenue that a company receives f
 MRR is a useful metric for tracking the growth and stability of a SaaS business, as it provides insight into the predictable and recurring revenue that the company can expect to receive on a monthly basis. It can also be used to forecast future revenue and to identify trends in customer demand.
 
 There are several other related metrics that are often used in conjunction with MRR, such as average revenue per user (ARPU) and customer lifetime value (CLV). These metrics can provide additional insight into the performance and growth of a SaaS business.
+
+## Roles
+
+Performance Marketer
+Produc Marketer
+Growth Marketer
+Web Developer
+SEO Strategist
+SDR
+BDR
+SDR/BDR Manager
+Account Executive
+Account Manager
+Sales Manager
+VP / Director of Sales
+CRO
+CMO
+Customer Success Manager/Partner
+Support Specialist
+Revenue Operations Manager
+Partner Account Manager
+Solution Consultant / Product Specialist / Technical Sales
+Data Engineer
+Analytics Engineer / BI Analyst
