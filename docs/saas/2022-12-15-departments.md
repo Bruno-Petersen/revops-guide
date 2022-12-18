@@ -5,7 +5,7 @@ date: 2022-12-15 23:52:24 +0100
 nav_order: 2
 parent: SaaS
 has_children: true
-permalink: /business-models.html
+permalink: /departments.html
 ---
 
 ## Typical Departments
