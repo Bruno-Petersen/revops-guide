@@ -16,3 +16,8 @@ permalink: /demand_conversion.html
 - Sales frameworks
 - Handovers
 - SLAs
+
+## Departments Involved
+
+- [Marketing](/marketing.html)
+- [Revenue Development](/revdev.html)

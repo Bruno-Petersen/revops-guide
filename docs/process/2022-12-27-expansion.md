@@ -1,14 +1,14 @@
 ---
 layout: default
-title: Growth
+title: Expansion
 date: 2022-12-27 18:12:10 +0100
 nav_order: 7
 has_children: false
 parent: Bowtie
 grand_parent: Process
-permalink: /Growth.html
+permalink: /Expansion.html
 ---
 
-# Growth
+# Expansion
 
 -
