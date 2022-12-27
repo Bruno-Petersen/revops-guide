@@ -10,3 +10,7 @@ permalink: /demand_gen.html
 ---
 
 # Demand Generation
+
+## Departments Involved in Demand Generation
+
+- [Marketing](/marketing.html)

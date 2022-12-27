@@ -22,6 +22,11 @@ The revenue development functions consists of SDRs (sales development representa
 
 - **Providing product and market knowledge:** SDRs and BDRs may be responsible for staying up to date on the organization's products and services, as well as on industry trends and competitive landscape, in order to effectively communicate the value proposition to potential customers and partners.
 
+## RevDev as part of the Bowtie
+
+- [Demand Capture](/demand_capture.html) - be available for prospects to book meetings and chase leads that did not fully convert through the inbound channels (depends on sales motion)
+- [Demand Conversion](/demand_conversion.html) - qualify the lead and understand if this is an opportunity worth pursuing further and hand that opportunity over to [sales](/sales.html)
+
 ## SDRs and BDRs
 
 SDRs and BDRs are both types of revenue development professionals who are responsible for generating leads and helping to move them through the sales funnel. But there are some key differences between the two roles:

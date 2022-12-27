@@ -12,3 +12,10 @@ permalink: /Expansion.html
 # Expansion
 
 -
+
+## Departments Involved in Expansion
+
+- [Customer Success](/cs.html)
+- [Sales and Account Managers](/sales.html)
+- [Technical Sales or Solutions](/techsales.html)
+- Product

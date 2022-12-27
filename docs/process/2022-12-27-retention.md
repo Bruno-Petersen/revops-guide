@@ -12,3 +12,9 @@ permalink: /Retention.html
 # Retention
 
 -
+
+## Departments Involved in Retention
+
+- [Customer Success](/cs.html)
+- [Sales](/sales.html)
+- [Technical Sales or Solutions](/techsales.html)

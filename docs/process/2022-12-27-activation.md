@@ -14,3 +14,9 @@ permalink: /activation.html
 - Onboarding
 - Adoption
 - Growth
+
+## Departments Involved in Activation
+
+- [Customer Success](/cs.html)
+- [Technical Sales or Solutions](/techsales.html)
+- Support

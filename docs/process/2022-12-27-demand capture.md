@@ -15,3 +15,8 @@ permalink: /demand_capture.html
 - inbound
 - forms
 - calendars
+
+## Departments Involved in Demand Capture
+
+- [Marketing](/marketing.html)
+- [Revenue Development](/revdev.html)

@@ -24,6 +24,12 @@ In a SaaS business the marketing team is responsible for many different areas su
 
 - **Generating leads:** The marketing team may be responsible for generating leads through various channels, such as social media, email marketing, and paid advertising, and for nurturing those leads through the sales funnel.
 
+## Marketing as part of the Bowtie
+
+- [Demand Generation](/demand_gen.html)
+- [Demand Capture](/demand_capture.html)
+- [Demand Conversion](/demand_conversion.html)
+
 ## The rationale of a B2B SaaS business
 
 --> the impact this has on marketing
