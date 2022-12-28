@@ -2,7 +2,7 @@
 layout: default
 title: Constraints
 date: 2022-11-12 18:12:10 +0100
-nav_order: 9
+nav_order: 2
 has_children: false
 parent: Process Theory
 grand_parent: Process
