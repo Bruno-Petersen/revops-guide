@@ -4,7 +4,8 @@ title: Constraints
 date: 2022-11-12 18:12:10 +0100
 nav_order: 9
 has_children: false
-parent: Process
+parent: Process Theory
+grand_parent: Process
 permalink: /constraints.html
 ---
 
