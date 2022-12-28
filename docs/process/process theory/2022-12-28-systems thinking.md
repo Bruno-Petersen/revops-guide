@@ -16,6 +16,8 @@ Systems thinking is a holistic approach that recognizes that complex systems oft
 
 ## Complexity Theory
 
-## Frmeworks
+## Frameworks
 
 - Cynefin framework
+
+## Systems thinking in Dev
